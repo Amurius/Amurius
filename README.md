@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a project for families<br>I'm learning Typescript<br>Ask me about anything
+I'm currently working on a project for families
 
 
 ## 🌐 Socials:
